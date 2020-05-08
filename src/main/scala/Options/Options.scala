@@ -2,13 +2,34 @@ package Options
 
 object Options extends App {
 
-// null:
+    // val x : Int = null
+    // val y : Boolean = null
 
-  //val x : Int = null
-  val y : Boolean = null
+    val list : List[String] = null
 
-  val list : List[String] = null
-  println(list)
-  //list.reverse
+    try { list.appended() } catch {
+      case e: NullPointerException => println("Odwołanie do nulla")
+    }
+
+  def toInt(s: String): Option[Int] = {
+    try {
+      Some(Integer.parseInt(s.trim))
+    } catch {
+      case e: Exception => None
+    }
+  }
+
+
+  //null "" "5"
+  val i = toInt(null)
+  println(i)
+  println(i.get)
+  println(i.getOrElse("10"))
+
+  
+  toInt(null) match {
+    case Some(x) => println(x)
+    case None => println("That didn't work.")
+  }
 
 }

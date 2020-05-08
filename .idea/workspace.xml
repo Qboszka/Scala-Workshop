@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="" />
+    <list default="true" id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_13_1_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_13_3_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_13_3_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Warsztat_5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Warsztat_5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Options/Options.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Options/Options.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +49,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1babasnh3glh3ZRYZVbKVq7vA6k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +64,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,6 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Options" />
+      <item itemvalue="Application.String_interpolation" />
+      <item itemvalue="Application.String_interpolation (1)" />
+      <item itemvalue="Scala REPL.Scala REPL" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Options" />
@@ -166,8 +202,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3177752322507" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="687264985" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3181455883" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
       </map>
     </option>
@@ -186,14 +221,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="997" y="360" key="#ScalaTests_in_'scala'" timestamp="1588947790652">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="997" y="360" key="#ScalaTests_in_'scala'/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588947790652" />
     <state x="1018" y="475" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588885356888">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="1018" y="475" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588885356888" />
-    <state x="744" y="364" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588888188895">
+    <state x="744" y="364" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588947870852">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state x="744" y="364" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588888188895" />
+    <state x="744" y="364" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588947870852" />
     <state x="1035" y="512" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588878386450">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
@@ -202,25 +241,33 @@
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="1018" y="456" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588878165895" />
-    <state width="2518" height="389" key="GridCell.Tab.0.bottom" timestamp="1588896087596">
+    <state width="2518" height="389" key="GridCell.Tab.0.bottom" timestamp="1588952186154">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state width="2518" height="389" key="GridCell.Tab.0.bottom/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087596" />
-    <state width="2518" height="389" key="GridCell.Tab.0.center" timestamp="1588896087594">
+    <state width="2518" height="389" key="GridCell.Tab.0.bottom/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186154" />
+    <state width="2518" height="389" key="GridCell.Tab.0.center" timestamp="1588952186152">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state width="2518" height="389" key="GridCell.Tab.0.center/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087594" />
-    <state width="2518" height="389" key="GridCell.Tab.0.left" timestamp="1588896087594">
+    <state width="2518" height="389" key="GridCell.Tab.0.center/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186152" />
+    <state width="2518" height="389" key="GridCell.Tab.0.left" timestamp="1588952186152">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state width="2518" height="389" key="GridCell.Tab.0.left/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087594" />
-    <state width="2518" height="389" key="GridCell.Tab.0.right" timestamp="1588896087596">
+    <state width="2518" height="389" key="GridCell.Tab.0.left/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186152" />
+    <state width="2518" height="389" key="GridCell.Tab.0.right" timestamp="1588952186153">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
-    <state width="2518" height="389" key="GridCell.Tab.0.right/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087596" />
+    <state width="2518" height="389" key="GridCell.Tab.0.right/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186153" />
     <state x="768" y="284" key="SettingsEditor" timestamp="1588880566375">
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="768" y="284" key="SettingsEditor/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588880566375" />
+    <state x="889" y="290" width="782" height="825" key="find.popup" timestamp="1588951605497">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="889" y="290" width="782" height="825" key="find.popup/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588951605497" />
+    <state x="945" y="333" width="670" height="676" key="search.everywhere.popup" timestamp="1588947919589">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="945" y="333" width="670" height="676" key="search.everywhere.popup/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588947919589" />
   </component>
 </project>
