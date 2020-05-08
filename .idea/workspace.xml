@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Scala Worksheet" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1babasnh3glh3ZRYZVbKVq7vA6k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Options">
+    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Options.Options" />
+      <module name="Warsztat_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Options.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_interpolation (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="String_interpolation" />
+      <module name="Warsztat_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_interpolation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="String_interpolation.String_interpolation" />
+      <module name="Warsztat_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_interpolation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Warsztat_5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Warsztat_5" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Warsztat_5" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Options" />
+        <item itemvalue="Application.String_interpolation" />
+        <item itemvalue="Application.String_interpolation (1)" />
+        <item itemvalue="Scala REPL.Scala REPL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Warsztat_5" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="warsztat_5 [file:/Users/Qboszka/FTIMS/Scala/Warsztat_5/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Warsztat_5-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3177752322507" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="687264985" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="" />
+      <created>1588873217846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588873217846</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="475" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588885356888">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1018" y="475" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588885356888" />
+    <state x="744" y="364" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588888188895">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="744" y="364" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588888188895" />
+    <state x="1035" y="512" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588878386450">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1035" y="512" key="#com.intellij.fileTypes.FileTypeChooser/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588878386450" />
+    <state x="1018" y="456" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588878165895">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="1018" y="456" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588878165895" />
+    <state width="2518" height="389" key="GridCell.Tab.0.bottom" timestamp="1588896087596">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="2518" height="389" key="GridCell.Tab.0.bottom/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087596" />
+    <state width="2518" height="389" key="GridCell.Tab.0.center" timestamp="1588896087594">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="2518" height="389" key="GridCell.Tab.0.center/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087594" />
+    <state width="2518" height="389" key="GridCell.Tab.0.left" timestamp="1588896087594">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="2518" height="389" key="GridCell.Tab.0.left/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087594" />
+    <state width="2518" height="389" key="GridCell.Tab.0.right" timestamp="1588896087596">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state width="2518" height="389" key="GridCell.Tab.0.right/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588896087596" />
+    <state x="768" y="284" key="SettingsEditor" timestamp="1588880566375">
+      <screen x="0" y="23" width="2560" height="1359" />
+    </state>
+    <state x="768" y="284" key="SettingsEditor/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588880566375" />
+  </component>
+</project>
