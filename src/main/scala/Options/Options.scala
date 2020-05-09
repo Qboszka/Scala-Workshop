@@ -21,15 +21,14 @@ object Options extends App {
 
 
   //null "" "5"
-  val i = toInt(null)
+  val i = toInt("")
   println(i)
-  println(i.get)
+  //println(i.get)
   println(i.getOrElse("10"))
 
-  
-  toInt(null) match {
+
+  toInt("5") match {
     case Some(x) => println(x)
     case None => println("That didn't work.")
   }
-
 }

@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_13_1_2_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_13_3_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_13_3_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Warsztat_5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Warsztat_5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/Options/Options.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Options/Options.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/String_interpolation/Interpolators.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/String_interpolation/Interpolators.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/String_interpolation/String_interpolation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/String_interpolation/String_interpolation.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +48,9 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
-  <component name="RunManager" selected="Application.Options">
+  <component name="RunManager" selected="Application.Try_Either">
     <configuration name="Options" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Options.Options" />
       <module name="Warsztat_5" />
@@ -96,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String_interpolation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try_Either" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Try_Either.Try_Either" />
+      <module name="Warsztat_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Try_Either.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,9 +159,11 @@
       <item itemvalue="Application.String_interpolation" />
       <item itemvalue="Application.String_interpolation (1)" />
       <item itemvalue="Scala REPL.Scala REPL" />
+      <item itemvalue="Application.Try_Either" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Try_Either" />
         <item itemvalue="Application.Options" />
         <item itemvalue="Application.String_interpolation" />
         <item itemvalue="Application.String_interpolation (1)" />
@@ -241,25 +237,50 @@
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="1018" y="456" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588878165895" />
-    <state width="2518" height="389" key="GridCell.Tab.0.bottom" timestamp="1588952186154">
-      <screen x="0" y="23" width="2560" height="1359" />
+    <state width="1238" height="121" key="GridCell.Tab.0.bottom" timestamp="1589068024633">
+      <screen x="0" y="23" width="1280" height="734" />
     </state>
+    <state width="1238" height="137" key="GridCell.Tab.0.bottom/0.23.1280.719@0.23.1280.719" timestamp="1588975399623" />
+    <state width="1238" height="121" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1589068024633" />
     <state width="2518" height="389" key="GridCell.Tab.0.bottom/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186154" />
-    <state width="2518" height="389" key="GridCell.Tab.0.center" timestamp="1588952186152">
-      <screen x="0" y="23" width="2560" height="1359" />
+    <state width="1238" height="121" key="GridCell.Tab.0.center" timestamp="1589068024631">
+      <screen x="0" y="23" width="1280" height="734" />
     </state>
+    <state width="1238" height="137" key="GridCell.Tab.0.center/0.23.1280.719@0.23.1280.719" timestamp="1588975399622" />
+    <state width="1238" height="121" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1589068024631" />
     <state width="2518" height="389" key="GridCell.Tab.0.center/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186152" />
-    <state width="2518" height="389" key="GridCell.Tab.0.left" timestamp="1588952186152">
-      <screen x="0" y="23" width="2560" height="1359" />
+    <state width="1238" height="121" key="GridCell.Tab.0.left" timestamp="1589068024630">
+      <screen x="0" y="23" width="1280" height="734" />
     </state>
+    <state width="1238" height="137" key="GridCell.Tab.0.left/0.23.1280.719@0.23.1280.719" timestamp="1588975399622" />
+    <state width="1238" height="121" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1589068024630" />
     <state width="2518" height="389" key="GridCell.Tab.0.left/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186152" />
-    <state width="2518" height="389" key="GridCell.Tab.0.right" timestamp="1588952186153">
-      <screen x="0" y="23" width="2560" height="1359" />
+    <state width="1238" height="121" key="GridCell.Tab.0.right" timestamp="1589068024632">
+      <screen x="0" y="23" width="1280" height="734" />
     </state>
+    <state width="1238" height="137" key="GridCell.Tab.0.right/0.23.1280.719@0.23.1280.719" timestamp="1588975399623" />
+    <state width="1238" height="121" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1589068024632" />
     <state width="2518" height="389" key="GridCell.Tab.0.right/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186153" />
-    <state x="768" y="284" key="SettingsEditor" timestamp="1588880566375">
-      <screen x="0" y="23" width="2560" height="1359" />
+    <state width="1238" height="228" key="GridCell.Tab.1.bottom" timestamp="1589065787275">
+      <screen x="0" y="23" width="1280" height="734" />
     </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.bottom/0.23.1280.734@0.23.1280.734" timestamp="1589065787275" />
+    <state width="1238" height="228" key="GridCell.Tab.1.center" timestamp="1589065787274">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.center/0.23.1280.734@0.23.1280.734" timestamp="1589065787274" />
+    <state width="1238" height="228" key="GridCell.Tab.1.left" timestamp="1589065787273">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.left/0.23.1280.734@0.23.1280.734" timestamp="1589065787273" />
+    <state width="1238" height="228" key="GridCell.Tab.1.right" timestamp="1589065787274">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state width="1238" height="228" key="GridCell.Tab.1.right/0.23.1280.734@0.23.1280.734" timestamp="1589065787274" />
+    <state x="283" y="35" key="SettingsEditor" timestamp="1589065755773">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="283" y="35" key="SettingsEditor/0.23.1280.734@0.23.1280.734" timestamp="1589065755773" />
     <state x="768" y="284" key="SettingsEditor/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588880566375" />
     <state x="889" y="290" width="782" height="825" key="find.popup" timestamp="1588951605497">
       <screen x="0" y="23" width="2560" height="1359" />
@@ -269,5 +290,10 @@
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="945" y="333" width="670" height="676" key="search.everywhere.popup/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588947919589" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Warsztat_5$Try_Either.ic" NAME="Try_Either Coverage Results" MODIFIED="1589065764297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Try_Either.*</FILTER>
+    </SUITE>
   </component>
 </project>

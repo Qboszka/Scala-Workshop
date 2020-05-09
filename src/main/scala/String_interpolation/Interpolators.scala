@@ -2,7 +2,7 @@ package String_interpolation
 
 object Interpolators {
 
-  implicit class UppercaseInterpolator(sc: StringContext) {
+  implicit class LowercaseInterpolator(sc: StringContext) {
 
     def lowercase(args: Any*): String = {
       val strings = sc.parts.iterator
@@ -16,5 +16,4 @@ object Interpolators {
       buffer.toString.toLowerCase()
     }
   }
-
 }

@@ -1,5 +1,5 @@
 package String_interpolation
-import Interpolators.UppercaseInterpolator
+import Interpolators.LowercaseInterpolator
 
 object String_interpolation extends App {
 
