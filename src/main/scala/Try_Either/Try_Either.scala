@@ -28,8 +28,32 @@ object Try_Either extends App {
  // (tryToDouble("3"))
 
   def squared(i: Int) = i * i
-  println(Right(42).map(squared))
-  println(Left(42).map(squared))
+
+  //println(Right(42).map(squared))
+  //println(Left(42).map(squared))
+
+
+  val in = readLine("Type Either a string or an Int: ")
+  val result: Either[String,Int] =
+    try Right(in.toInt)
+    catch {
+      case e: NumberFormatException => Left(in)
+    }
+
+  result match {
+    case Right(x) => s"You passed me the Int: $x, which I will increment. $x + 1 = ${x+1}"
+    case Left(x)  => s"You passed me the String: $x"
+  }
+
+  println(result)
+
+
+
+  val a: Either[String, Int] = Left("scala")
+
+  println(a.left.map(_.size))
+  println(a.map(_.toDouble))
+
 
 
 }
