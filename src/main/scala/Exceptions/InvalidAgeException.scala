@@ -1,6 +1,7 @@
 package Exceptions
 
 class InvalidAgeException(s:String) extends Exception(s){}
+
 class ExceptionExample{
   @throws(classOf[InvalidAgeException])
   def validate(age:Int){

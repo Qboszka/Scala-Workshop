@@ -19,16 +19,13 @@ object Exceptions {
     }
 
        */
-/*
+
     val e = new ExceptionExample()
     try{
       e.validate(5)
     }catch{
-      case e : Exception => println("Exception Occured : "+e)
+      case e : Exception => println("Exception Occured: " + e)
     }
-
- */
-
   }
 }
 

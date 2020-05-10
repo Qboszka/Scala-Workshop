@@ -49,8 +49,5 @@ object String_interpolation extends App {
 
   val lower : String = lowercase"This STRING wiLL Contain only SMALL letters"
   println(lower)
-
-
-
 }
 

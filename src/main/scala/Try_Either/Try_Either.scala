@@ -44,9 +44,7 @@ object Try_Either extends App {
       case Left(x) => s"You passed me the String: $x"
     })
   }
-
   Either_function
-
 
 /*
   val a: Either[String, Int] = Left("scala")
