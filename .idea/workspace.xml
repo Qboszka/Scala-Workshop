@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="" />
+    <list default="true" id="76fe9f51-3cb1-40a8-8f29-f3604ddb026a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +50,39 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
-  <component name="RunManager" selected="Application.Promises">
+  <component name="RunManager" selected="Application.Increment">
+    <configuration name="Increment" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sync.Increment" />
+      <module name="Warsztat_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Promises" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Async.Promises" />
       <module name="Warsztat_5" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronized" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sync.Synchronized" />
+      <module name="Warsztat_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sync.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,27 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureSpec.Feature: Handling Future result using callbacks Scenario: Handle Future using onComplete with pattern matching - Success case" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="Warsztat_5" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="FutureSpec" />
-      <option name="testName" value="Feature: Handling Future result using callbacks Scenario: Handle Future using onComplete with pattern matching - Success case" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PromisesTEST" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="Warsztat_5" />
       <option name="allowRunningInParallel" value="false" />
@@ -150,7 +157,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PromisesTEST.Feature: Completing Promises Scenario: Promise can be completed" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="PromisesTEST.Feature: Completing Promises Scenario: Converting Promise to Future and completing with onCompleted" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="Warsztat_5" />
       <option name="allowRunningInParallel" value="false" />
       <option name="testKind" value="Class" />
@@ -163,28 +170,7 @@
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
       <option name="testClassPath" value="PromisesTEST" />
-      <option name="testName" value="Feature: Completing Promises Scenario: Promise can be completed" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PromisesTEST.Scenario: Converting Promise to Future and completing with onCompleted" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="Warsztat_5" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="PromisesTEST" />
-      <option name="testName" value="Scenario: Converting Promise to Future and completing with onCompleted" />
+      <option name="testName" value="Feature: Completing Promises Scenario: Converting Promise to Future and completing with onCompleted" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -193,19 +179,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="ScalaTest.FutureSpec.Feature: Handling Future result using callbacks Scenario: Handle Future using onComplete with pattern matching - Success case" />
       <item itemvalue="ScalaTest.PromisesTEST" />
       <item itemvalue="Application.Promises" />
-      <item itemvalue="ScalaTest.PromisesTEST.Feature: Completing Promises Scenario: Promise can be completed" />
-      <item itemvalue="ScalaTest.PromisesTEST.Scenario: Converting Promise to Future and completing with onCompleted" />
+      <item itemvalue="ScalaTest.PromisesTEST.Feature: Completing Promises Scenario: Converting Promise to Future and completing with onCompleted" />
+      <item itemvalue="Application.Synchronized" />
+      <item itemvalue="Application.Increment" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Increment" />
+        <item itemvalue="Application.Synchronized" />
+        <item itemvalue="ScalaTest.PromisesTEST.Feature: Completing Promises Scenario: Converting Promise to Future and completing with onCompleted" />
         <item itemvalue="Application.Promises" />
         <item itemvalue="ScalaTest.PromisesTEST" />
-        <item itemvalue="ScalaTest.PromisesTEST.Scenario: Converting Promise to Future and completing with onCompleted" />
-        <item itemvalue="ScalaTest.PromisesTEST.Feature: Completing Promises Scenario: Promise can be completed" />
-        <item itemvalue="ScalaTest.FutureSpec.Feature: Handling Future result using callbacks Scenario: Handle Future using onComplete with pattern matching - Success case" />
       </list>
     </recent_temporary>
   </component>
@@ -277,33 +263,33 @@
       <screen x="0" y="23" width="2560" height="1359" />
     </state>
     <state x="1018" y="456" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588878165895" />
-    <state width="1238" height="154" key="GridCell.Tab.0.bottom" timestamp="1589147927360">
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom" timestamp="1589193683239">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589147927360" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589193683239" />
     <state width="1238" height="137" key="GridCell.Tab.0.bottom/0.23.1280.719@0.23.1280.719" timestamp="1588975399623" />
-    <state width="1238" height="121" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1589129921362" />
+    <state width="1238" height="154" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1589192513895" />
     <state width="2518" height="389" key="GridCell.Tab.0.bottom/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186154" />
-    <state width="1238" height="154" key="GridCell.Tab.0.center" timestamp="1589147927358">
+    <state width="1238" height="154" key="GridCell.Tab.0.center" timestamp="1589193683237">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="154" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589147927358" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589193683237" />
     <state width="1238" height="137" key="GridCell.Tab.0.center/0.23.1280.719@0.23.1280.719" timestamp="1588975399622" />
-    <state width="1238" height="121" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1589129921361" />
+    <state width="1238" height="154" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1589192513892" />
     <state width="2518" height="389" key="GridCell.Tab.0.center/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186152" />
-    <state width="1238" height="154" key="GridCell.Tab.0.left" timestamp="1589147927357">
+    <state width="1238" height="154" key="GridCell.Tab.0.left" timestamp="1589193683236">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="154" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589147927357" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589193683236" />
     <state width="1238" height="137" key="GridCell.Tab.0.left/0.23.1280.719@0.23.1280.719" timestamp="1588975399622" />
-    <state width="1238" height="121" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1589129921360" />
+    <state width="1238" height="154" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1589192513889" />
     <state width="2518" height="389" key="GridCell.Tab.0.left/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186152" />
-    <state width="1238" height="154" key="GridCell.Tab.0.right" timestamp="1589147927359">
+    <state width="1238" height="154" key="GridCell.Tab.0.right" timestamp="1589193683238">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="154" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589147927359" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589193683238" />
     <state width="1238" height="137" key="GridCell.Tab.0.right/0.23.1280.719@0.23.1280.719" timestamp="1588975399623" />
-    <state width="1238" height="121" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1589129921361" />
+    <state width="1238" height="154" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1589192513894" />
     <state width="2518" height="389" key="GridCell.Tab.0.right/2560.496.1280.777/0.23.2560.1359@0.23.2560.1359" timestamp="1588952186153" />
     <state width="1238" height="228" key="GridCell.Tab.1.bottom" timestamp="1589065787275">
       <screen x="0" y="23" width="1280" height="734" />
