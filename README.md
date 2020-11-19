@@ -1,4 +1,4 @@
-SCALA WORKSHOP
+#Scala workshop that I've conducted for scala programming classes
 
 Topics:
 1. String interpolation
